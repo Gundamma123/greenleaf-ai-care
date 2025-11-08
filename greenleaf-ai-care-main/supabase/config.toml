@@ -1,0 +1,7 @@
+project_id = "pfscwtvkgrifdbwklwbf"
+
+[functions.agronomist-chat]
+verify_jwt = true
+
+[functions.analyze-disease]
+verify_jwt = true
