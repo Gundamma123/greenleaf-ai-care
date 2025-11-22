@@ -8,7 +8,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use My website**
 
 Simply visit the [My Project](https://greenleaf-ai-care.dev/projects/64e873ce-322f-4a4f-830b-69e1e4ee4332) and start prompting.
 
