@@ -1,4 +1,5 @@
 🌿 AI-Powered Crop Disease Detection
+
 A smart AI-based system for detecting crop diseases and providing treatment recommendations.
 
 📘 **Project Overview**  
