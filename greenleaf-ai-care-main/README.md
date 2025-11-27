@@ -22,10 +22,12 @@ Key Features
 
 
 Tech Stack
-Category	           Technology
-Frontend	           React, TypeScript
-Styling	             Tailwind CSS, shadcn/ui
-Build                Tool	Vite
-AI Model	           TensorFlow / Custom ML Model API
-Backend (Optional)	 Node.js / Express / Supabase
-Environment	         Node.js, VS Code
+| Category               | Technology                       |
+| ---------------------- | -------------------------------- |
+| **Frontend**           | React, TypeScript                |
+| **Styling**            | Tailwind CSS, shadcn/ui          |
+| **Build Tool**         | Vite                             |
+| **AI Model**           | TensorFlow / Custom ML Model API |
+| **Backend (Optional)** | Node.js / Express / Supabase     |
+| **Environment**        | Node.js, VS Code                 |
+
