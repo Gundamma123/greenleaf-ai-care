@@ -1,4 +1,4 @@
-AI-Powered Crop Disease Detection
+🌿AI-Powered Crop Disease Detection
 A smart AI-based system for detecting crop diseases and providing treatment recommendations.
 
 📘 Project Overview
@@ -7,7 +7,7 @@ AI-Powered Crop Disease Detection is a smart web application that helps farmers 
 Users can upload crop leaf images, get instant diagnosis, receive treatment suggestions, and access an interactive AI agronomist assistant for guidance.
 Designed to support farmers with fast, reliable, and modern agriculture insights.
 
-Key Features
+🎯Key Features
 
 🤖 AI Disease Detection – Upload an image and instantly detect crop diseases with high accuracy.
 
@@ -24,7 +24,7 @@ Key Features
 📱 Responsive Design – Works smoothly on mobile, tablet, and desktop.
 
 
-Tech Stack
+🧱Tech Stack
 | Category               | Technology                       |
 | ---------------------- | -------------------------------- |
 | **Frontend**           | React, TypeScript                |
