@@ -1,3 +1,5 @@
+AI-Powered Crop Disease Detection
+A smart AI-based system for detecting crop diseases and providing treatment recommendations.
 📘 Project Overview
 
 AI-Powered Crop Disease Detection is a smart web application that helps farmers identify crop diseases using AI-based image analysis.
