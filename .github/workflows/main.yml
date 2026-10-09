@@ -28,7 +28,7 @@ jobs:
           cache-dependency-path: greenleaf-ai-care-main/package-lock.json
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --include=optional
 
       - name: Build frontend
         run: npm run build
